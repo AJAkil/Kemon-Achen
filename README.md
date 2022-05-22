@@ -5,5 +5,5 @@ interface. Users can lookup any professionals and contact them by mail or phone.
 useful information on the mental illness, as well as invaluable professional information. Also the users can take tests to determine the level of anxiety, stress and depression
 and get scored on the current mental state. The app will engage the user to take tests after a certain amount of time in a recurring manner.
 
-Frontend repository: https://github.com/imshmen/kemon-achen-app
-Backend repository:  https://github.com/AJAkil/kemon-achen-backend
+- Frontend repository: https://github.com/imshmen/kemon-achen-app
+- Backend repository:  https://github.com/AJAkil/kemon-achen-backend
